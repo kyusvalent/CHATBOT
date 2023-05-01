@@ -1,0 +1,8 @@
+tflearn
+numpy
+tensorflow
+tflearn
+nltk
+jsons
+flask
+pandas
